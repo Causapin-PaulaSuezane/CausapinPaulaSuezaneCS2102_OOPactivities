@@ -1,4 +1,4 @@
-public class Escesq{
+public class Escseq{
     public static void main(String[] args) {
         int start = 1; 
         int count = 5; 
