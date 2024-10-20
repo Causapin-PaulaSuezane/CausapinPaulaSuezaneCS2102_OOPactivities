@@ -1,7 +1,7 @@
 public class Car {
 	private String color;
 	private double price;
-    private char size;
+	private char size;
     
 
 	public Car(String color, double price, char size) {
@@ -22,7 +22,7 @@ public class Car {
     }
 
     // setter
-	public void setColor(String color) {
+    public void setColor(String color) {
         this.color = color;
     }
     public void setPrice(double price){
