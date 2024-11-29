@@ -12,14 +12,14 @@
 
 <div align="center">
   
-### **LABORATORY ACTIVITIES**  
+### **💻🖱️ LABORATORY ACTIVITIES**  
 ###### *(Click the icons to view links ☕︎ or ▹)*
 
 </div>
 
 ---
 
-### **Checklist:**
+### **🎯Checklist:**
 
 - [x] **Laboratory Activity 1**  [☕︎](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20activity%201%20-%2006-09-2024) 
 - [x] **Laboratory Activity 2**  [☕︎](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/tree/main/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024)
@@ -31,14 +31,14 @@
 
 <div align="center">
   
-### **DETAILS OF EACH ACTIVITY**
+### **― DETAILS OF EACH ACTIVITY ―**
 
 </div>
 
 ---
 
 ### **1. Laboratory Activity 1** ☕︎  
-󠀾 ✔ **CODES**
+󠀾✔ **CODES**
 - [x] *Getting Inputs* &nbsp;&nbsp;[(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20activity%201%20-%2006-09-2024/GettingInputs.java)
 - [x] *Getting Greater* [(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20activity%201%20-%2006-09-2024/GettingGreater.java)
       
@@ -93,23 +93,23 @@
 
 <div align="center">
   
-### **EXERCISE SETS**  
+### **💻🖱️EXERCISE SETS**  
 ###### *(Click the icons to view links ☕︎ or ▹)*
 
 </div>
 
 ---
 
-### **Checklist:**
+### **🎯Checklist:**
 
-- [x] **Exercise Set 01**  
-- [x] **Encapsulation**   
+- [x] **Exercise Set 01**  [☕︎](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/tree/main/Exercise%20Sets/Exercise%20Set%2001) 
+- [x] **Encapsulation**   [☕︎](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/tree/main/Exercise%20Sets/Encapsulation) 
 
 ---
 
 <div align="center">
   
-### **DETAILS OF EACH ACTIVITY**
+### **― DETAILS OF EACH ACTIVITY ―**
 
 </div>
 
