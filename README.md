@@ -38,6 +38,7 @@
 ---
 
 ### **1. Laboratory Activity 1** ☕︎  
+###### *(Submitted on 06-09-2024)*
 󠀾✔ **CODES**
 - [x] *Getting Inputs* &nbsp;&nbsp;[(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20activity%201%20-%2006-09-2024/GettingInputs.java)
 - [x] *Getting Greater* [(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20activity%201%20-%2006-09-2024/GettingGreater.java)
@@ -48,7 +49,8 @@
 
 ---
 
-### **2. Laboratory Activity 2** ☕︎  
+### **2. Laboratory Activity 2** ☕︎ 
+###### *(Submitted on 04-10-2024)*
 ✔ **CODES**
 - [x] *Get Array Mean* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024/GetArrayMean.java)
 - [x] *Multiplication Table* [(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024/MultiplicationTable.java)
@@ -59,7 +61,8 @@
          
 ---
 
-### **3. Laboratory Activity 3** ☕︎   
+### **3. Laboratory Activity 3** ☕︎
+###### *(Submitted on 22-11-2024)*
 ✔ **CODES**
 - [x] *Artist* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Artists/Artist.java)
 - [x] *Artist Demo* [(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Artists/ArtistDemo.java)
@@ -78,6 +81,7 @@
 ---
 
 ### **4. Laboratory Activity 4** ☕︎  
+###### *(Submitted on 28-11-2024)*
 ✔ **CODE**
 - [x] *Main* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%204%20-28-11-2024/Shapes/Main.java)
 - [x] *Shape* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Laboratory%20Activities/Laboratory%20Activity%204%20-28-11-2024/Shapes/Shape.java)
