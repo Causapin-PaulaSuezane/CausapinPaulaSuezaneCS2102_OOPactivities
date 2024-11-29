@@ -131,5 +131,17 @@
 ✔ **OUTPUT**
 - [x] *Car Output* &nbsp;&nbsp;[(▹)](https://github.com/Causapin-PaulaSuezane/CausapinPaulaSuezaneCS2102_OOPactivities/blob/main/Exercise%20Sets/Encapsulation/Car_output.png)
 
+---
+
+<div align="center">
+  
+.
+<br>.
+<br>.
+<br>.
+
+⎛⎝ ≽  >  ⩊   < ≼ ⎠⎞
+
+</div>
 
 
